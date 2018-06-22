@@ -22,3 +22,28 @@ Send solution as fiddle. I advice you to use something from the following list:
 * http://plnkr.co/
 * https://jsfiddle.net/
 * https://codepen.io/
+
+
+### Solution
+
+Solution to this task is located in script.js
+                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                      
+# Lucky Tickets
+
+## Content
+
+Tickets are build of 6 digts numbers: `X` `X` `X` `X` `X` `X` in range between `000000` to `999999`. In ticket set, there are lukcy tickets. Lucky tickets are those in which sum of 3 first digits is equal to sum of last 3 digits.
+
+Number: `1` `2` `3` `4` `0` `2`                                                                                                                        
+`1` + `2` + `3` = `4` + `0` + `2`
+
+## Task
+
+Please count appearances probability of Lucky Tickets using provided expression:                                                                
+``` result = ( quantity of luckyTicket / quantity of all Tickets) * 100%; ```
+
+### Solution
+
+Solution to this task is located in script2.js
