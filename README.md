@@ -1,4 +1,4 @@
-# JavaScript excercise
+# JavaScript excercise - infoShare
 
 ## Display users and their details using remote API
 Using JavaScript display list of users.
@@ -30,7 +30,7 @@ Solution to this task is located in script.js
                                                                                                                                                                      
                                                                                                                                                                                                                                                                                                  
                                                                                                                                                       
-# Lucky Tickets
+# Lucky Tickets - Oracle
 
 ## Content
 
